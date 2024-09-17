@@ -166,3 +166,10 @@ To predict the likelihood of a patient developing Chronic Obstructive Pulmonary 
 ##### References:
 
 ● https://www.researchgate.net/figure/Age-standardized-death-rates-of-COPD-in-Nepal-during-1990-2016-by-sex_fig1_323028028
+● https://www.worldbank.org/en/search?q=Chronic+Obstructive+Pulmonary+Diseas
+● https://www.dovepress.com/factors-associated-with-chronic-obstructive-pulmonary-diseases-in-nepa-peer-reviewed-fulltext-article-COPD
+● https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5810531/
+● https://www.tandfonline.com/doi/pdf/10.2147/COPD.S268110
+● https://github.com/hmcheick/COPD/blob/main/Dataset_PowerBI.xlsx
+● https://github.com/phenoflow/Chronic-Obstructive-Pulmonary-Disease---9387f040-1873-11ef-9de4-4d4ea830ad16?tab=readme-ov-file
+● https://github.com/Physicist91/copd-ml/blob/main/finalalldata.csv
